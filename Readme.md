@@ -9,11 +9,12 @@
 8. Git Add .
 9. Git commit -m "Readme del módulo 00"
 10. Indico la rama de trabajo y hago push con git push --set-upstream origin master
-11.Se refleja en GitHUB
+11. Se refleja en GitHUB
 12. Creo rama con git branch development y me cambio a esa rama con git checkout development
 12. Modifico Readme añadiendo nuevos pasos
 13. Git Add . + Git commit -m "Actualización 1 Readme" + git push --set-upstream origin development
 14. Git checkout master para cambiarme a la rama master.
 15. Git merge development master para mergear ambas ramas y actualizar la master con el contenido de development.
 16. Git push
-17.Actualizo Readme de nuevo con últimos pasos + git commit -am "Actualización 2 Readme"+ push desde la rama master.
+17. Actualizo Readme de nuevo con últimos pasos + git commit -am "Actualización 2 Readme"+ push desde la rama master.
+18. Detecto errores en el texto, corrijo y vuelvo a subirlo a GitHUB.
